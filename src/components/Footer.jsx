@@ -41,7 +41,7 @@ function Footer() {
                             <a className="" href="" key={index}>{link}</a>
                         ))}
                     </div> 
-                    <p className="text-xs  text-gray-500 mt-6 text-left">Site criado para fins educacionais.</p>
+                    <p className="text-xs  text-gray-500 mt-6 ">Site criado para fins educacionais.</p>
                 </div>
 
                
